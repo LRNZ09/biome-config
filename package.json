@@ -1,0 +1,16 @@
+{
+	"name": "@lrnz09/biome-config",
+	"version": "1.0.0",
+	"license": "MIT",
+	"type": "module",
+	"main": "biome.json",
+	"files": [
+		"biome.json"
+	],
+	"devDependencies": {
+		"@biomejs/biome": "2.2.0"
+	},
+	"publishConfig": {
+		"access": "public"
+	}
+}

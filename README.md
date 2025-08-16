@@ -29,8 +29,9 @@ Create a `biome.json` in your project root:
 ## Features
 
 - Automatic import organization on save
-- Single quotes for both JS and JSX
+- Single quotes for both `.js`/`.ts` and `.jsx`/`.tsx` files
 - No semicolons unless required
+- JSX is disabled outside `.jsx`/`.tsx` files to avoid accidental JSX parsing
 - Git integration with `main` as default branch
 
 ## License

@@ -12,6 +12,9 @@
 			"jsxQuoteStyle": "single",
 			"quoteStyle": "single",
 			"semicolons": "asNeeded"
+		},
+		"parser": {
+			"jsxEverywhere": false
 		}
 	},
 	"vcs": {

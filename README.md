@@ -32,6 +32,7 @@ Create a `biome.json` in your project root:
 - Single quotes for both `.js`/`.ts` and `.jsx`/`.tsx` files
 - No semicolons unless required
 - JSX is disabled outside `.jsx`/`.tsx` files to avoid accidental JSX parsing
+- Allow experimental parameters decorators
 - Git integration with `main` as default branch
 
 ## License

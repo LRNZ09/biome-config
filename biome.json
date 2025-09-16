@@ -14,7 +14,8 @@
 			"semicolons": "asNeeded"
 		},
 		"parser": {
-			"jsxEverywhere": false
+			"jsxEverywhere": false,
+			"unsafeParameterDecoratorsEnabled": true
 		}
 	},
 	"vcs": {
